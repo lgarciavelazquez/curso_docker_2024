@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: home
 title: Introducción
 nav_order: 2
-has_children: true
 ---
 
 # Introducción a los contenedores y a Docker
