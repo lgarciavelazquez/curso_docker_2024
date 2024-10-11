@@ -1,6 +1,6 @@
 ---
-layout: home
 title: Introducción
+layout: default
 nav_order: 2
 ---
 
